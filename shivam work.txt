@@ -50,6 +50,7 @@ ex- git commit -m "uploading new files"
 13)git merge [branch name]	
 ->Merge a branch into the active branch.
 
+$$
 14)git merge [source branch] [target branch]
 ->Merge a branch into a target branch
 
